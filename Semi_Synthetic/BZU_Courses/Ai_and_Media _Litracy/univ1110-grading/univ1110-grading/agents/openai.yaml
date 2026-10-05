@@ -1,0 +1,14 @@
+interface:
+  display_name: UNIV1110 Grading
+  short_description: Grade UNIV1110 submissions consistently
+  default_prompt: Use $univ1110-grading to run the pilot or continue grading Sections
+    6 and 8.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
