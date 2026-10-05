@@ -1,0 +1,3 @@
+interface:
+  display_name: "Discrete Math Teaching Assistant"
+  short_description: "Plan COMP233 lectures from the course outline, Epp 4e, and local notes."
