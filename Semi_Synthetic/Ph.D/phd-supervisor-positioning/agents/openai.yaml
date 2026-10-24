@@ -1,0 +1,10 @@
+interface:
+  display_name: "PhD Supervisor Positioning"
+  short_description: "Build evidence-grounded research profiles, supervisor-fit analyses, and professor outreach."
+policy:
+  products:
+    - chatgpt
+    - codex
+    - api
+    - atlas
+  allow_implicit_invocation: true
